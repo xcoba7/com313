@@ -1,0 +1,5 @@
+C:\Users\HP ELITEBOOK 1040 G3\Desktop\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK 1040 G3\Desktop\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK 1040 G3\Desktop\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK 1040 G3\Desktop\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK 1040 G3\Desktop\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.csproj.CoreCompileInputs.cache

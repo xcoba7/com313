@@ -16,3 +16,5 @@ foreach (string datestr in sampleDateTimes) {
     DateTime result;
     // TODO: Use the static class function TryParse to try parsing the dates
 }
+
+Console.WriteLine("testing to see it works")
